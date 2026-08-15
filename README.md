@@ -118,8 +118,6 @@ Computer Vision project using **OpenCV** to detect a samosa and calculate its ap
 
 ---
 
-# 📊 GitHub Stats
-
 ## 📊 GitHub Stats
 
 <p align="center">
