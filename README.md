@@ -127,10 +127,24 @@ Computer Vision project using **OpenCV** to detect a samosa and calculate its ap
 
 ---
 
-# 🐍 Watch My Contributions Get Eaten
+## 🐍 Watch My Contributions Get Eaten
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abel-joh-n/abel-joh-n/output/github-contribution-grid-snake.svg" />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/abel-joh-n/abel-joh-n/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/abel-joh-n/abel-joh-n/output/github-snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/abel-joh-n/abel-joh-n/output/github-snake.svg"
+      alt="GitHub Contribution Snake"
+      width="100%"
+    />
+  </picture>
 </p>
 
 ---
